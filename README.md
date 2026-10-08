@@ -190,18 +190,18 @@ Uber data analysis.ipynb and run all the cells sequentially.
 
 
 ---
+## 👨‍💻 Author
 
-# 👩‍💻 Author
-
-**Khushi R**
-
+**Muthu Kumar G**
 AI & Data Science Graduate
 
-- 💼 Aspiring AI/ML Engineer & Data Scientist
+- 💼 Aspiring Software engineer| AI/ML Engineer & Data Scientist
 - 🐍 Python | SQL | Machine Learning | Data Analysis
 - 📊 Passionate about solving real-world problems using data
 
-
+- GitHub: [code-with-muthu](https://github.com/code-with-muthu)
+- LinkedIn: [heymuthu](https://linkedin.com/in/heymuthu/)
+- Email: 1719muthukumar@gmail.com
 ---
 
 # 📄 License
