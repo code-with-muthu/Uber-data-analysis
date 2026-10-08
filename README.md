@@ -190,7 +190,7 @@ Uber data analysis.ipynb and run all the cells sequentially.
 
 
 ---
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Muthu Kumar G**
 AI & Data Science Graduate
@@ -199,6 +199,8 @@ AI & Data Science Graduate
 - 🐍 Python | SQL | Machine Learning | Data Analysis
 - 📊 Passionate about solving real-world problems using data
 
+
+### Connect with me
 - GitHub: [code-with-muthu] (https://github.com/code-with-muthu)
 - LinkedIn: [heymuthu] (https://linkedin.com/in/heymuthu/)
 - Email: 1719muthukumar@gmail.com
