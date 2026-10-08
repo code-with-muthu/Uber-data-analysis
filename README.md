@@ -199,8 +199,8 @@ AI & Data Science Graduate
 - 🐍 Python | SQL | Machine Learning | Data Analysis
 - 📊 Passionate about solving real-world problems using data
 
-- GitHub: [code-with-muthu](https://github.com/code-with-muthu)
-- LinkedIn: [heymuthu](https://linkedin.com/in/heymuthu/)
+- GitHub: [code-with-muthu] (https://github.com/code-with-muthu)
+- LinkedIn: [heymuthu] (https://linkedin.com/in/heymuthu/)
 - Email: 1719muthukumar@gmail.com
 ---
 
